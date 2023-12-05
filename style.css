@@ -164,10 +164,8 @@ nav {
 
 
 // This just justifies what color hyperlinks are before and after being clicked.
-a {
-    color: white;
-}
 
-a:active {
-    color: white;
-}
+a:link {color:#ffffff;}    
+a:visited {color:#ffffff;} 
+a:hover {color:#ffffff;}   
+a:active {color:#ffffff;} 
