@@ -164,8 +164,8 @@ nav {
 
 
 // This just justifies what color hyperlinks are before and after being clicked.
-a {   
-    color: white;   
+a {
+    color: white;
 }
 
 a:active {
